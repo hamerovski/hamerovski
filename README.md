@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=650&lines=Machine+Learning+Engineer+%F0%9F%A4%96;AI+Researcher+%26+Explorer+%F0%9F%A7%A0;Python+%26+Data+Science+%F0%9F%90%8D;Building+AI+Agent+Systems+%F0%9F%9A%80;Curious+Mind%2C+Always+Learning+%F0%9F%94%AC)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=202410614005&color=FF6B6B&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=hamerovski&color=FF6B6B&style=for-the-badge&label=Profile+Views)
 
 **🟢 Open to Junior ML / AI Engineer roles — remote or İstanbul / Tekirdağ**
 
@@ -71,14 +71,14 @@ developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=202410614005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=202410614005&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamerovski&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamerovski&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=202410614005&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamerovski&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -91,7 +91,7 @@ developer = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaerhan)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hamzaerhan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaerhanofficial@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/202410614005)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamerovski)
 
 ---
 
