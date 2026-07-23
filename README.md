@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamerovski&color=FF6B6B&style=for-the-badge&label=Profile+Views)
 
-**🟢 Open to Junior ML / AI Engineer roles — remote or İstanbul / Tekirdağ**
+**🟢 Open to Junior ML / AI Engineer / Programmer roles
 
 </div>
 
@@ -26,17 +26,6 @@ developer = {
     "contact":    "hamzaerhanofficial@gmail.com"
 }
 ```
-
----
-
-## 🏆 Highlights
-
-- 🎯 **Salary-tier prediction model — AUC 0.88** on Kaggle (real ML pipeline: feature engineering, model selection, evaluation) → [notebook](https://www.kaggle.com/code/hamzaerhan/salary-tier-prediction-for-cs-graduates-auc-0-88)
-- 📄 **Peer-reviewed research article** (socioeconomics, ESCI-indexed) — currently under review
-- 🤖 **Agent Brain** — a self-maintaining "second brain" / agent OS: file-based memory, scheduled automations, multi-agent review loops
-- 🧠 **Cross-domain ML** — projects across finance, healthcare, and environmental data (transferring methods across domains)
-
----
 
 ## 🛠️ Tech Stack
 
